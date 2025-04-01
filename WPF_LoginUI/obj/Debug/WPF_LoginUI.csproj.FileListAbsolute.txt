@@ -1,11 +1,16 @@
-C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI.csproj.AssemblyReference.cache
-C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\App.g.cs
-C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI_MarkupCompile.cache
 C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\bin\Debug\WPF_LoginUI.exe.config
 C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\bin\Debug\WPF_LoginUI.exe
 C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\bin\Debug\WPF_LoginUI.pdb
+C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI.csproj.AssemblyReference.cache
+C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\Index.g.cs
 C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\MainWindow.g.cs
+C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\App.g.cs
+C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI_MarkupCompile.cache
 C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI_MarkupCompile.lref
+C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\App.baml
+C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\CustomButtonStyle.baml
+C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\Index.baml
 C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\MainWindow.baml
 C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI.g.resources
 C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI.Properties.Resources.resources
@@ -13,5 +18,4 @@ C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginU
 C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI.csproj.CoreCompileInputs.cache
 C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI.exe
 C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\WPF_LoginUI.pdb
-C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\Index.g.cs
-C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\Index.baml
+C:\Users\27980\Desktop\Projects\WPF\WPF_LoginUI\WPF_LoginUI\obj\Debug\CustomTextBoxStyle.baml

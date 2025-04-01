@@ -55,7 +55,17 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="CustomButton.cs" />
+    <Compile Include="CustomTextBox.cs" />
     <Compile Include="RelayCommand.cs" />
+    <Page Include="CustomButtonStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CustomTextBoxStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Index.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

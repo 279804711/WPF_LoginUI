@@ -4,6 +4,11 @@
              xmlns:local="clr-namespace:WPF_LoginUI"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="CustomButtonStyle.xaml"/>
+                <ResourceDictionary Source="CustomTextBoxStyle.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

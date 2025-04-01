@@ -37,7 +37,7 @@
 
             <TextBlock  Text="用户名" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center"/>
             <!--<TextBox  x:Name="txtUserName" Grid.Row="0" Grid.Column="1"/>-->
-            <TextBox Text="{Binding UserName}" Grid.Row="0" Grid.Column="1"/>
+            <local:CustomTextBox Text="{Binding UserName}" Grid.Row="0" Grid.Column="1"/>
             
             <TextBlock  Text="密码" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center"/>
             <!--<TextBox x:Name="txtPassWord" Grid.Row="1" Grid.Column="1"/>-->
@@ -45,7 +45,8 @@
             
             <CheckBox Content="记住密码" Grid.Row="2" Grid.ColumnSpan="2"/>
             <!--<Button Content="登录" Grid.Row="3" Grid.ColumnSpan="2" Click="Button_Click"/>-->
-            <Button Content="登录" Grid.Row="3" Grid.ColumnSpan="2" Command="{Binding LoginAction}"/>
+            <!--<Button Content="登录" Grid.Row="3" Grid.ColumnSpan="2" Command="{Binding LoginAction}"/>-->
+            <local:CustomButton ButtonCornerRadius="10" BackgroundHover="Green" BackgroudPressed="Blue" Background="red" Content="登录" Grid.Row="3" Grid.ColumnSpan="2" Command="{Binding LoginAction}"/>
         </Grid>
         
         
